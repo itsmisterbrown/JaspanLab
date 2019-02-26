@@ -10,7 +10,7 @@
 <channel>
 	<title>jaspanlab</title>
 	<atom:link href="http://localhost/wordpress/feed/" rel="self" type="application/rss+xml" />
-	<link>https://itsmisterbrown.github.io/jaspanlab</link>
+	<link>https://itsmisterbrown.github.io/JaspanLab</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>
 	Tue, 26 Feb 2019 08:23:08 +0000	</lastBuildDate>
@@ -22,18 +22,18 @@
 	<generator>https://wordpress.org/?v=5.1</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>https://itsmisterbrown.github.io/jaspanlab/2019/02/26/hello-world/</link>
-				<comments>https://itsmisterbrown.github.io/jaspanlab/2019/02/26/hello-world/#comments</comments>
+		<link>https://itsmisterbrown.github.io/JaspanLab/2019/02/26/hello-world/</link>
+				<comments>https://itsmisterbrown.github.io/JaspanLab/2019/02/26/hello-world/#comments</comments>
 				<pubDate>Tue, 26 Feb 2019 08:23:08 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 
-		<guid isPermaLink="false">https://itsmisterbrown.github.io/jaspanlab/?p=1</guid>
+		<guid isPermaLink="false">https://itsmisterbrown.github.io/JaspanLab/?p=1</guid>
 				<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 								<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://itsmisterbrown.github.io/jaspanlab/2019/02/26/hello-world/feed/</wfw:commentRss>
+							<wfw:commentRss>https://itsmisterbrown.github.io/JaspanLab/2019/02/26/hello-world/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 							</item>
 	</channel>
