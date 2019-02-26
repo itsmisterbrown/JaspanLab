@@ -11,16 +11,38 @@
 	<title>jaspanlab</title>
 	<atom:link href="http://localhost/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>https://itsmisterbrown.github.io/JaspanLab</link>
-	<description>Just another WordPress site</description>
+	<description>@Seattle Childrens</description>
 	<lastBuildDate>
-	Tue, 26 Feb 2019 08:23:08 +0000	</lastBuildDate>
+	Tue, 26 Feb 2019 09:09:54 +0000	</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.1</generator>
+
+<image>
+	<url>https://itsmisterbrown.github.io/JaspanLab/wp-content/uploads/2019/02/cropped-logo_vsm_3col-1-32x32.jpg</url>
+	<title>jaspanlab</title>
+	<link>https://itsmisterbrown.github.io/JaspanLab</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
+		<title>test</title>
+		<link>https://itsmisterbrown.github.io/JaspanLab/2019/02/26/test/</link>
+				<comments>https://itsmisterbrown.github.io/JaspanLab/2019/02/26/test/#respond</comments>
+				<pubDate>Tue, 26 Feb 2019 09:09:54 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">https://itsmisterbrown.github.io/JaspanLab/?p=37</guid>
+				<description><![CDATA[]]></description>
+								<content:encoded><![CDATA[]]></content:encoded>
+							<wfw:commentRss>https://itsmisterbrown.github.io/JaspanLab/2019/02/26/test/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
 		<title>Hello world!</title>
 		<link>https://itsmisterbrown.github.io/JaspanLab/2019/02/26/hello-world/</link>
 				<comments>https://itsmisterbrown.github.io/JaspanLab/2019/02/26/hello-world/#comments</comments>
